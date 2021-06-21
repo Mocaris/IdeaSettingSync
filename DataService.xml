@@ -1,0 +1,6 @@
+<application>
+  <component name="DataService">
+    <option name="useFolder" value="false" />
+    <option name="usePrefix" value="true" />
+  </component>
+</application>
