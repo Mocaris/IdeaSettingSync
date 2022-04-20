@@ -36,6 +36,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="cn.jxzhang.plugin.json-formatter">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.github.copilot">
           <value>
             <PluginData>
