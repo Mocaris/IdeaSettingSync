@@ -1,5 +1,8 @@
 <application>
   <component name="github-copilot">
+    <disabledLanguages>
+      <option value="Dart" />
+    </disabledLanguages>
     <option name="telemetryTermsAcceptedDate" value="2022-05-10T14:15:46.691344+08:00[Asia/Shanghai]" />
   </component>
 </application>
