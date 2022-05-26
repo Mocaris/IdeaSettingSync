@@ -47,6 +47,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="cn.neday.excavator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.crzsc.FlutterAssetsGenerator">
           <value>
             <PluginData>
