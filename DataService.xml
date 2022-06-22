@@ -1,6 +1,7 @@
 <application>
   <component name="DataService">
-    <option name="useFolder" value="false" />
-    <option name="usePrefix" value="true" />
+    <option name="templatePage" value="{&quot;logic&quot;:&quot;Controller&quot;,&quot;view&quot;:&quot;UI&quot;,&quot;viewFile&quot;:&quot;ui&quot;,&quot;state&quot;:&quot;State&quot;,&quot;selected&quot;:true}" />
+    <option name="templateComponent" value="{&quot;logic&quot;:&quot;Controller&quot;,&quot;view&quot;:&quot;Component&quot;,&quot;viewFile&quot;:&quot;component&quot;,&quot;state&quot;:&quot;State&quot;,&quot;selected&quot;:false}" />
+    <option name="templateCustom" value="{&quot;logic&quot;:&quot;Controller&quot;,&quot;view&quot;:&quot;Widget&quot;,&quot;viewFile&quot;:&quot;widget&quot;,&quot;state&quot;:&quot;State&quot;,&quot;selected&quot;:false}" />
   </component>
 </application>
